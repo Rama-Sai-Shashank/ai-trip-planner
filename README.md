@@ -61,7 +61,7 @@ trip-planner/
 
 ## 🙌 Author
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Rama Sai Shashank Natukula
 
 ---
 
